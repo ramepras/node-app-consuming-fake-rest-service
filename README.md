@@ -8,3 +8,13 @@
 
 
 # Main Node app runs on port 3000
+
+# Usage
+
+  Clone the project
+  
+  run npm install
+  
+  start with npm start -s
+  
+  open browser at localhost:3000
