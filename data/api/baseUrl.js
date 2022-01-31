@@ -3,4 +3,6 @@ export default function getBaseUrl() {
   return inDev ? 'http://localhost:3001/' : '/';
 }
 
-export const baseUrl = "http://localhost:3001/";
+const baseUrl = "http://localhost:3001/";
+
+export {baseUrl}
